@@ -41,10 +41,10 @@ Análisis profundo de disparidades y eficiencia sanitaria:
 ## 📸 Capturas
 
 ### Visión General
-![Hoja 1](1.%20Visión%20general.png)
+![Hoja 1](hoja1-vision-general.png)
 
 ### Análisis de Eficiencia
-![Hoja 2](2.%20Análisis%20de%20eficiencia.png)
+![Hoja 2](hoja2-analisis-eficiencia.png)
 
 ## 💡 Conclusiones principales
 - Solo el 32% de los médicos trabaja en Atención Primaria, 
@@ -55,6 +55,10 @@ Análisis profundo de disparidades y eficiencia sanitaria:
   per cápita a grandes comunidades como Andalucía o Cataluña
 - Madrid lidera en disponibilidad de camas y médicos por habitante, 
   con una brecha del 87% respecto a Melilla
+
+## 👤 Autor
+Jesica Radice · 
+https://www.linkedin.com/in/jesica-radice-608974142/
 
 ## 👤 Autor
 Jesica Radice · (https://www.linkedin.com/in/jesica-radice-608974142/) · 
