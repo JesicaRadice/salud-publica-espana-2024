@@ -41,10 +41,10 @@ Análisis profundo de disparidades y eficiencia sanitaria:
 ## 📸 Capturas
 
 ### Visión General
-![Hoja 1](hoja1-vision-general.png)
+![Hoja 1](1.%20Visión%20general.png)
 
 ### Análisis de Eficiencia
-![Hoja 2](hoja2-analisis-eficiencia.png)
+![Hoja 2](2.%20Análisis%20de%20eficiencia.png)
 
 ## 💡 Conclusiones principales
 - Solo el 32% de los médicos trabaja en Atención Primaria, 
