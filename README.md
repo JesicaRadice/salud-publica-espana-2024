@@ -60,5 +60,3 @@ Análisis profundo de disparidades y eficiencia sanitaria:
 Jesica Radice · 
 https://www.linkedin.com/in/jesica-radice-608974142/
 
-## 👤 Autor
-Jesica Radice · (https://www.linkedin.com/in/jesica-radice-608974142/) · 
